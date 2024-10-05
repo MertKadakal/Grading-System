@@ -1,0 +1,23 @@
+- - - - - - - - - -
+BBM201 Statistics (Part 3)
+- - - - - - - - - -
+4968.38
+A1: -
+A2: 1
+A3: 1
+B1: -
+B2: 4
+B3: 5
+C1: 5
+C2: 7
+C3: 3
+D: 8
+F1: 23
+F2: 6
+F3: 37
+--------------------
+Total number of students: 100
+Average of grades: 49.6838
+Max score: 92.26
+Min score: 18.12
+--------------------

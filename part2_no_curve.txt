@@ -1,0 +1,4 @@
+Total number of students: 0
+Average of grades: -inf
+Max score: 0
+Min score: 100

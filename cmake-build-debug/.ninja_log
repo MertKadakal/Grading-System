@@ -1,0 +1,16 @@
+# ninja log v6
+4	268	7498355743341607	build.ninja	999af974b778b2c4
+10	829	7498351178786600	CMakeFiles/untitled.dir/main.cpp.obj	a922251020367b90
+16	1215	7498351178837737	CMakeFiles/untitled.dir/part1.cpp.obj	2ed5a05ca83eaa7
+25	1695	7498351178928542	CMakeFiles/untitled.dir/part3.cpp.obj	fa97330736ad0131
+3	17	7493322853765733	clean	20b1347d9ae3b987
+20	1355	7498351178877915	CMakeFiles/untitled.dir/part2.cpp.obj	871b94f70889e26c
+2	565	7498355788931677	CMakeFiles/NongradedProject.dir/src/main.cpp.obj	f9027205ed82bca
+8	882	7498355788984129	CMakeFiles/NongradedProject.dir/src/part1.cpp.obj	78c0387691e73480
+13	1141	7498355789036019	CMakeFiles/NongradedProject.dir/src/part2.cpp.obj	597d5fa40ecd2017
+18	1408	7498355789077830	CMakeFiles/NongradedProject.dir/src/part3.cpp.obj	727099fe04045bc2
+1408	1795	7498355802986787	NongradedProject.exe	a82ce837583945ba
+8	802	7498369140474648	CMakeFiles/NongradedProject.dir/src/part1.cpp.obj	78c0387691e73480
+14	989	7498369140534671	CMakeFiles/NongradedProject.dir/src/part2.cpp.obj	597d5fa40ecd2017
+18	1276	7498369140574647	CMakeFiles/NongradedProject.dir/src/part3.cpp.obj	727099fe04045bc2
+1276	1662	7498369153157079	NongradedProject.exe	a82ce837583945ba
